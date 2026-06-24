@@ -10,5 +10,4 @@ class Solution:
             else:
                 res[neg]=nums[i]
                 neg+=2
-        return res
-        
+        return res                        
